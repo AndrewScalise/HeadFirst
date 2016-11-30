@@ -3,3 +3,6 @@
 /BeatBox$MyStopListener.class
 /BeatBox$MyUpTempoListener.class
 /BeatBox.class
+/BeatBox$MySaveStateListener.class
+/BeatBox$MyRestoreListener.class
+/BeatBox$MyClearListener.class
